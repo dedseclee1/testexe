@@ -1,5 +1,5 @@
 pandas
-numpy
-pyodbc
 openpyxl
+pyodbc
+xlrd
 pyinstaller
